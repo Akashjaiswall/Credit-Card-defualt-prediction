@@ -11,4 +11,6 @@ CONCLUSION
 After performing the various model we get the best accuracy form the all the models except random forest.
 Random Forest is the least accurate as compared to other models as it shows overfitting of the model.
 XG boost and Logistic regression has the best precision and recall Balance.
+Higher recall can be achieved if low precision is acceptable.
+
 
