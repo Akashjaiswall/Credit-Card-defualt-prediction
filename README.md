@@ -13,5 +13,6 @@ Random Forest is the least accurate as compared to other models as it shows over
 XG boost and Logistic regression has the best precision and recall Balance.
 Higher recall can be achieved if low precision is acceptable.
 We can deploy the model and can be served as an aid to human decision.
+Model can be improved with more data and computational resources.
 
 
